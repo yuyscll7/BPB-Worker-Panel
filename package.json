@@ -1,8 +1,8 @@
 {
-  "name": "bpb-worker-panel",
-  "version": "2.7.2",
+  "name": "bbbb",
+  "version": "2.9.9.9",
   "author": {
-    "name": "Bia Pain Bache"
+    "name": "bbbbbb"
   },
   "devDependencies": {
     "wrangler": "latest",
